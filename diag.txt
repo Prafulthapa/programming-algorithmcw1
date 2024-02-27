@@ -1,0 +1,43 @@
++----------------------+
+| User Interface       |
+|  - Text Input        |
+|  - Buttons           |
+|    - Encrypt         |
+|    - Decrypt         |
+|    - Reset           |
+|    - Save Log        |
+|  - Text Display      |
++----------+-----------+
+           |
+           v
++----------------------+
+| Encryption/          |
+| Decryption Logic     |
+|  - Encryption Func   |
+|  - Decryption Func   |
++----------+-----------+
+           |
+           v
++----------------------+
+| Temporary File       |
+| Handling             |
+|  - Temporary Files   |
++----------+-----------+
+           |
+           v
++----------------------+
+| Save Log Function    |
+|  - Save to File      |
++----------+-----------+
+           |
+           v
++----------------------+
+| Notepad Integration  |
+|  - Open in Notepad   |
++----------------------+
+           |
+           v
++----------------------+
+| Encryption Log File  |
+|  - encryption_log.txt|
++----------------------+
